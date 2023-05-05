@@ -7,25 +7,24 @@ const SectionCuatro = () => {
     <section className={styles.contenedorSectionCuatro}>
       <div className={styles.bloqueIzq}>
         <h2>
-          ¿Cuánto dinero me dais por vender plata en
+          ¿Cuánto dinero recibo por vender plata en
           {""}
-          <span className={styles.linea}>Bilbao?</span>
+          <span className={styles.linea}>Granada?</span>
         </h2>
         <p>
-          En Quickgold Bilbao compramos todo tipo de piezas de plata. Ya sean
-          joyas, monedas, elementos de decoración, cuberterías o lingotes. Ven a
-          nuestra tienda y obtén dinero en efectivo al instante por ellas.
-          Garantizamos el mejor servicio y el mejor precio de la plata en Bilbao
-          siempre con una tasación a la vista y una comprobación específica para
-          este metal. Llámanos sin compromiso y fija tu precio. Mejor servicio y
-          precio por kilo garantizado
+          En Quickgold Granada puedes traer tus piezas de plata: cuberterías,
+          monedas, joyas, monedas, etc. Y te indicaremos cuál es el contraste de
+          la plata para indicarte qué dinero en efectivo vas a recibir por
+          ellas. Mejor servicio y precio por kilo de plata garantizado con el
+          precio siempre actualizado en la ciudad de Granada. Vende plata con
+          total confianza y absoluta seguridad.
         </p>
       </div>
       <div className={styles.bloqueDer}>
         <img
           loading="lazy"
-          src="/compro-oro-bilbao.webp"
-          alt="Compro oro bilbao"
+          src="/compro-oro-granada.webp"
+          alt="Compro oro granada"
           className={styles.Image}
           width={480}
           height={390}

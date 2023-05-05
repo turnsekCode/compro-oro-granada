@@ -12,10 +12,10 @@ const Breadcrumbs = () => {
         <KeyboardArrowRightIcon />
       </div>
       <a
-        href="https://quickgold.es/compro-oro-bilbao/"
-        title="Ir a casa cambio sevilla"
+        href="https://quickgold.es/compro-oro-granada/"
+        title="Ir a casa cambio Granada"
       >
-        Compro oro Bilbao
+        Compro oro Granada
       </a>
     </div>
   );

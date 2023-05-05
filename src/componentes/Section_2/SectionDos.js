@@ -12,10 +12,10 @@ const SectionDos = ({ ciudad }) => {
             <img src="/logoOro.png" alt="Logo Plata" />
           </figure>
           <div className={styles.contenedorInfo}>
-            <h2>Comprar oro en Bilbao</h2>
+            <h2>Comprar oro en Granada</h2>
             <p>
               Utiliza nuestra calculadora para conocer<br></br> el precio de
-              vender oro en Bilbao.
+              vender oro en Granada.
             </p>
           </div>
         </div>

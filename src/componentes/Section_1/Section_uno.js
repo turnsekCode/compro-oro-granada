@@ -11,13 +11,12 @@ const Section_uno = () => {
     <section className={styles.contenedorSectionUno}>
       <div className={styles.bloqueIzq}>
         <h1>
-          Compro oro <span className={styles.linea}>Bilbao</span>
+          Compro oro <span className={styles.linea}>Granada</span>
         </h1>
         <p>
-          Vender oro en Bilbao nunca había sido tan fácil. En Quickgold te
-          garantizamos el mejor servicio de toda la ciudad, con una tasación
-          detallada, a la vista y a un precio justo. Consulta el precio del oro
-          en Bilbao.
+          Vender oro en Granada es fácil y rápido. El precio de oro siempre está
+          actualizado, por lo que garantizamos el mejor servicio y precio del
+          oro en Granada. Obtén dinero en efectivo y al instante en Quickgold.
         </p>
         <div className={styles.botones}>
           <Link
@@ -41,7 +40,7 @@ const Section_uno = () => {
         {width <= 610 ? (
           <img
             src="/bilbaoOro_mobil.webp"
-            alt="Compro oro bilbao"
+            alt="Compro oro granada"
             className={styles.madridMobil}
             width={290}
             height={220}
@@ -49,7 +48,7 @@ const Section_uno = () => {
         ) : (
           <img
             src="/bilbaoOro.webp"
-            alt="Compro oro bilbao"
+            alt="Compro oro granada"
             className={styles.vector}
             width={480}
             height={364}

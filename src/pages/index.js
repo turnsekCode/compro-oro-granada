@@ -28,6 +28,7 @@ export default function Home({ markers, menu_list, ciudad }) {
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.png" />
+        <link rel="canonical" href="https://quickgold.es/compro-oro-granada/" />
       </Head>
       <Layout menu_list={menu_list}>
         <div className={styles.main}>

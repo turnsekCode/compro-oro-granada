@@ -18,3 +18,4 @@ jobs:
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
           server-dir: /public_html/quickgold.es/compro-oro-granada/
+          run: pm2 reload 17

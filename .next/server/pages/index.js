@@ -2218,7 +2218,7 @@ const SectionCuatro = ()=>{
                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("h2", {
                         children: [
                             "\xbfCu\xe1nto dinero recibo por vender plata en",
-                            "",
+                            " ",
                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                 className: (_sectionCuatro_module_css__WEBPACK_IMPORTED_MODULE_2___default().linea),
                                 children: "Granada?"

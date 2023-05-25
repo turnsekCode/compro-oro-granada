@@ -7,8 +7,7 @@ const SectionCuatro = () => {
     <section className={styles.contenedorSectionCuatro}>
       <div className={styles.bloqueIzq}>
         <h2>
-          ¿Cuánto dinero recibo por vender plata en
-          {""}
+          ¿Cuánto dinero recibo por vender plata en{" "}
           <span className={styles.linea}>Granada?</span>
         </h2>
         <p>

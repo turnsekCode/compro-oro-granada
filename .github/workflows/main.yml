@@ -18,3 +18,10 @@ jobs:
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
           server-dir: /public_html/quickgold.es/compro-oro-granada/
+
+      - name: Use Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: "npm"
+      - run: pm2 reload compro-oro-granada
